@@ -1,9 +1,10 @@
+
 import LikeButton from './LikeButton';
 
 function App() {
   return (
     <div className="App">
-      <h1>Like Button Exercise</h1>
+      <h1>Like Button Homework</h1>
       <LikeButton />
     </div>
   );
