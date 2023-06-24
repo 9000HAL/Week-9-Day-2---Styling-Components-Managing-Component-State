@@ -1,5 +1,7 @@
 
-import LikeButton from './LikeButton';
+import LikeButton from './LikeButton'
+import UpdateState from './UpdateState'
+
 
 function App() {
   return (
